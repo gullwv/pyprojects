@@ -1,4 +1,4 @@
-#the output of various print statements
+# the output of various print statements
 ---
 
 ```py

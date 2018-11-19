@@ -1,4 +1,4 @@
-#chaos.py outputs
+# chaos.py outputs
 ---
 
 with a value of 0.2...
@@ -62,7 +62,7 @@ with a value of 0.8...
 
 
 ---
-###observations:
+### observations:
 ---
 	0.4 and 0.6 have the same output! this is weird.
 
