@@ -1,5 +1,4 @@
 # the output of various print statements
----
 
 ```py
 >>> print("Hello, world!")

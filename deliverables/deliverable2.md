@@ -1,5 +1,4 @@
 # chaos.py outputs
----
 
 with a value of 0.2...
 ```
@@ -61,9 +60,7 @@ with a value of 0.8...
 ```
 
 
----
 ### observations:
----
 	0.4 and 0.6 have the same output! this is weird.
 
 	the values arent exactly equal... so this does show that the behavior certainly is chaotic
