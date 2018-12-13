@@ -1,4 +1,4 @@
 # pyprojects/deliverables
-Gull's **Python deliverables** directory. Class materials go here.
+Gull's **Python deliverables** directory. Deliverables go here.
 
 by gull
