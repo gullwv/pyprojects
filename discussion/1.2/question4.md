@@ -27,7 +27,7 @@
 ### c
 
 ```py
->>>for i in range(4):
+>>> for i in range(4):
 	print ("Hello")
 	
 Hello
@@ -40,7 +40,7 @@ Hello
 ### d
 
 ```py
->>>for i in range(5):
+>>> for i in range(5):
 	print (i, 2 ** i)
 	
 0 1
